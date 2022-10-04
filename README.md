@@ -1,19 +1,15 @@
-<h1 align="center">Hi 👋, I'm Utsav Kumar</h1>
+<h1>Hi 👋, I'm Utsav Kumar</h1>
 
 <p align="center">
   <img src="https://github.com/iutsavsingh/iutsavsingh/blob/59d3aaae4b0fe0b66a26ad4df6f37c382fa8f650/Github%20Banner.jpg" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
+# 💫 About Me:
+Android Developer in Early Age during Schooling. I Started My Programming Journey from 2021 and Learned the Basics of Programming Using C Programming Language. I Love to Learn Stuffs Related to Computer Science. I have Learned C, C++ Along with Basic DSA. I have also Learned Android Development with Kotlin and have Completed Some Projects on It.
+
 - 🌱 I’m currently learning **Android Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iutsavsingh](https://github.com/iutsavsingh)
-
-- 📫 How to reach me **singhutsav.in@gmail.com**
-
-- 📄 Know about my experiences [www.utsavsingh.ml](www.utsavsingh.ml)
-
-# 💫 About Me:
-Android Developer in Early Age during Schooling. I Started My Programming Journey from 2021 and Learned the Basics of Programming Using C Programming Language. I Love to Learn Stuffs Related to Computer Science. I have Learned C, C++ Along with Basic DSA. I have also Learned Android Development with Kotlin and have Completed Some Projects on It.
 
 
 ## 🌐 Socials:
