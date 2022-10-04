@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/iutsavsingh/iutsavsingh/blob/59d3aaae4b0fe0b66a26ad4df6f37c382fa8f650/Github%20Banner.jpg" width="100%" title="Intro Card" alt="Intro Card">
+</p>
+
 <h1 align="center">Hi 👋, I'm Utsav Kumar</h1>
 <h3 align="center">Kotlin Android Developer</h3>
 
