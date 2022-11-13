@@ -5,9 +5,9 @@
 </p>
 
 # 💫 About Me:
-Android Developer in Early Age during Schooling. I Started My Programming Journey from 2021 and Learned the Basics of Programming Using C Programming Language. I Love to Learn Stuffs Related to Computer Science. I have Learned C, C++ Along with Basic DSA. I have also Learned Android Development with Kotlin and have Completed Some Projects on It.
+Flutter Developer in Early Age during Schooling. I Started My Programming Journey from 2021 and Learned the Basics of Programming Using C Programming Language. I Love to Learn Stuffs Related to Computer Science. I have Learned C++ & also Flutter Development with Dart and have Completed Some Projects on It.
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Flutter Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iutsavsingh](https://github.com/iutsavsingh)
 
